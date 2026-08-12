@@ -13,11 +13,12 @@ act/
 .vscode/
 .env
 .op.env
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
-.env.development
+.env.developmentgit commit -m "Initial commit - Hermes Agent setup"
 .env.test
 .hermes-docker/
 .notebooklm-home/
